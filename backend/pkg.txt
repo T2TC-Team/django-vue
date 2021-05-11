@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-rest-auth
+shortuuid
+pymysql
+itsdangerous
+pycodestyle
